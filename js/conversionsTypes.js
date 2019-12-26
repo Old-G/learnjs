@@ -26,3 +26,9 @@ n *= 2; // теперь n=14 (работает как n = n * 2)
 
 alert( n );
 
+// let age = prompt('Сколько тебе лет?', 100);
+
+// alert(`Тебе ${age} лет!`);
+
+let name = prompt("Введи имя", "");
+alert (name);
